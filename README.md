@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm JL</h1>
 <h3 align="center">An aspiring web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jlrynld&label=Profile%20views&color=0e75b6&style=flat" alt="jlrynld" /> </p>
-
 - 🌱 I’m currently learning **tailwind, react(next.js)**
 
 - 👨‍💻 My web Portfolio Link [https://jlr-portfolio.vercel.app/](https://jlr-portfolio.vercel.app/)
