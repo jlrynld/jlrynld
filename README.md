@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is JL, I'm an aspiring web developer. </h2>
+<h2 align="left">Hi 👋! My name is JL, I'm an aspiring full stack web developer. </h2>
 
 - 🌱 I’m currently learning **tailwind, react(next.js)**
 
